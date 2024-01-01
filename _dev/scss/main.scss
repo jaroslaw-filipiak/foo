@@ -1,0 +1,13 @@
+/*
+* #TASK1
+* Custom styles here
+* im big fan of this scss structure + BEM : https://gist.github.com/rveitch/84cea9650092119527bc
+*
+*/
+
+@import './pages/single-book';
+@import './vendors/_bootstrap';
+
+.cursor-pointer {
+  cursor: pointer;
+}
